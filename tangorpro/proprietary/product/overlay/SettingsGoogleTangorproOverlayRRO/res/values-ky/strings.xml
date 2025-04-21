@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"Сенсорду баспай, тийип коюңуз. Тийген сайын манжаңызды алыңыз.
 
 Манжаңызды тийген сайын жылдырып туруңуз. Бул манжаңыздын изинин көбүрөөк жерин тартууга жардам берет."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">"Планшеттин кулпусун ачуу үчүн Pixel Imprint'ти колдонуңуз"</string>
+    <string name="suggested_fingerprint_lock_settings_summary">"Телефондун кулпусун ачуу үчүн Pixel Imprint'ти колдонуңуз"</string>
     <string name="settingslib_learn_more_text">Манжа изи менен ачуу функциясы жөнүндө кеңири маалымат</string>
 </resources>

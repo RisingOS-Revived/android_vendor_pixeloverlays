@@ -20,6 +20,6 @@ Megjegyzés: Nem használhatja ujjlenyomatát az eszköz feloldására. Ha tová
     <string name="security_settings_sfps_enroll_start_message">"Érintse meg az érzékelőt, de ne nyomja rá az ujját. Emelje fel az ujját az egyes érintések után.
 
 Minden alkalommal mozdítsa odébb egy kicsit az ujját. Így az ujjlenyomata nagyobb részét rögzítheti a rendszer."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">A táblagép feloldása a Pixel Imprint funkcióval</string>
+    <string name="suggested_fingerprint_lock_settings_summary">A telefon feloldása a Pixel Imprint funkcióval</string>
     <string name="settingslib_learn_more_text">További információ a Feloldás ujjlenyomattal funkcióról</string>
 </resources>

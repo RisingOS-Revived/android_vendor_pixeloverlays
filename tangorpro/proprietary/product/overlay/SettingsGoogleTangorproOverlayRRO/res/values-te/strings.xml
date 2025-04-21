@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"సెన్సార్‌ను నొక్కకుండా తాకండి. మీరు సెన్సార్‌ను తాకిన ప్రతిసారీ, మీ వేలును ఎత్తండి.
 
 ప్రతిసారీ మీ వేలును కొద్దిగా కదపండి. మీ వేలిముద్రను స్పష్టంగా క్యాప్చర్ చేయడానికి ఇది సహాయపడుతుంది."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">మీ టాబ్లెట్‌ను అన్‌లాక్ చేయడానికి Pixel Imprintను ఉపయోగించండి</string>
+    <string name="suggested_fingerprint_lock_settings_summary">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి Pixel Imprintని ఉపయోగించండి</string>
     <string name="settingslib_learn_more_text">వేలిముద్ర అన్‌లాక్ ఫీచర్ గురించి మరింత తెలుసుకోండి</string>
 </resources>

@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"Αγγίξτε τον αισθητήρα χωρίς να τον πατήσετε. Θα πρέπει να σηκώνετε το δάκτυλο μετά από κάθε άγγιγμα.
 
 Φροντίστε να μετακινείτε λίγο το δάκτυλο κάθε φορά. Με αυτόν τον τρόπο γίνεται καλύτερη λήψη του δακτυλικού σας αποτυπώματος."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Χρήση του Pixel Imprint για ξεκλείδωμα του tablet</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Χρήση του Pixel Imprint για ξεκλείδωμα του τηλεφώνου</string>
     <string name="settingslib_learn_more_text">Μάθετε περισσότερα για το Ξεκλείδωμα με δακτυλικό αποτύπωμα</string>
 </resources>

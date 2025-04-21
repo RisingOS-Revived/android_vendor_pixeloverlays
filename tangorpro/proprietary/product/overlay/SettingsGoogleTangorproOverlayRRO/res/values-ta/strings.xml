@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"சென்சாரை அழுத்தாமல் தொடுங்கள். ஒவ்வொரு முறை தொட்ட பிறகும் விரலை எடுங்கள்.
 
 ஒவ்வொரு முறையும் உங்கள் விரலைச் சிறிது நகர்த்துங்கள். இது உங்கள் கைரேகையைத் துல்லியமாகப் பதிவுசெய்ய உதவும்."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint மூலம் டேப்லெட்டை அன்லாக் செய்யலாம்</string>
+    <string name="suggested_fingerprint_lock_settings_summary">மொபைலை அன்லாக் செய்ய Pixel Imprintடைப் பயன்படுத்தலாம்</string>
     <string name="settingslib_learn_more_text">கைரேகை அன்லாக் குறித்து மேலும் அறிக</string>
 </resources>

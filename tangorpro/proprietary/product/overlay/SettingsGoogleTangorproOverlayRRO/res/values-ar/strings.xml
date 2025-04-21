@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"المس أداة الاستشعار بدون الضغط عليها. ارفع إصبعك بعد كل لمسة.
 
 حرِّك إصبعك قليلاً في كل مرة. يساعد هذا على التقاط مساحة أكبر من بصمة إصبعك."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">‏يمكنك استخدام Pixel Imprint لفتح قفل الجهاز اللوحي.</string>
+    <string name="suggested_fingerprint_lock_settings_summary">‏يمكنك استخدام Pixel Imprint لفتح قفل هاتفك.</string>
     <string name="settingslib_learn_more_text">مزيد من المعلومات عن ميزة \"فتح الجهاز ببصمة الإصبع\"</string>
 </resources>

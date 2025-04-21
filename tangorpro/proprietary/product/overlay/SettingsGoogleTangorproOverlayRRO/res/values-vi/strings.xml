@@ -20,6 +20,6 @@ Lưu ý: Bạn không thể dùng vân tay của mình để mở khóa thiết 
     <string name="security_settings_sfps_enroll_start_message">"Chạm mà không cần nhấn vào cảm biến. Nhấc ngón tay lên sau mỗi lần chạm.
 
 Di chuyển ngón tay nhẹ nhàng mỗi lần. Thao tác này giúp ghi lại vân tay của bạn một cách hoàn chỉnh hơn."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Dùng Pixel Imprint để mở khóa máy tính bảng</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Dùng Pixel Imprint để mở khóa điện thoại</string>
     <string name="settingslib_learn_more_text">Tìm hiểu thêm về tính năng Mở khoá bằng vân tay</string>
 </resources>

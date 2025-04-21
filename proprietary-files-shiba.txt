@@ -1,4 +1,4 @@
-# All blobs below are extracted from shiba BP1A.250405.005.B1 13151136 release-keys
+# All blobs below are extracted from shiba BP1A.250405.005.B1 release-keys
 
 # Pixel Overlays
 -product/overlay/AvatarPickerPixelOverlay.apk

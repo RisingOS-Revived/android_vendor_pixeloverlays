@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"حسگر را بدون فشار دادن لمس کنید. انگشتتان را بعداز هر لمس بردارید
 
 هربار انگشتتان را کمی حرکت دهید. این کار کمک می‌کند بخش بیشتری از اثر انگشتتان ثبت شود."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">‏استفاده از Pixel Imprint برای باز کردن قفل رایانه لوحی</string>
+    <string name="suggested_fingerprint_lock_settings_summary">‏استفاده از Pixel Imprint برای باز کردن قفل تلفن</string>
     <string name="settingslib_learn_more_text">درباره «قفل‌گشایی با اثر انگشت» بیشتر بدانید</string>
 </resources>

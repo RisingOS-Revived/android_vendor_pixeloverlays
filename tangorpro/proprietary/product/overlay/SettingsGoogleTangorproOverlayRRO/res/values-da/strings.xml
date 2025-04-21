@@ -20,6 +20,6 @@ Bemærk! Du kan ikke bruge dit fingeraftryk til at låse enheden op. Kontakt din
     <string name="security_settings_sfps_enroll_start_message">"Sæt fingeren på sensoren uden at trykke. Løft din finger efter hver berøring.
 
 Flyt fingeren en smule hver gang. På den måde registreres en større del af dit fingeraftryk."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Lås din tablet op ved hjælp af Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Lås din telefon op ved hjælp af Pixel Imprint</string>
     <string name="settingslib_learn_more_text">Få flere oplysninger om oplåsning med fingeraftryk</string>
 </resources>

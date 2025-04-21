@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"შეეხეთ სენსორს მასზე დაჭერის გარეშე. შეხების შემდეგ თითი აუშვით.
 
 ყოველ ჯერზე ოდნავ ამოძრავეთ თითი. ეს ხელს შეუწყობს თითის ანაბეჭდის უფრო სრულყოფილად მოხელთებას."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">გამოიყენეთ Pixel Imprint თქვენი ტაბლეტის განსაბლოკად</string>
+    <string name="suggested_fingerprint_lock_settings_summary">გამოიყენეთ Pixel Imprint თქვენი ტელეფონის განსაბლოკად</string>
     <string name="settingslib_learn_more_text">შეიტყვეთ მეტი ანაბეჭდით განბლოკვის შესახებ</string>
 </resources>

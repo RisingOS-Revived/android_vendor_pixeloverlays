@@ -20,6 +20,6 @@ Notă: nu îți poți folosi amprenta ca să deblochezi acest dispozitiv. Pentru
     <string name="security_settings_sfps_enroll_start_message">"Atinge senzorul fără a-l apăsa. Ridică degetul după fiecare atingere.
 
 Mută ușor degetul de fiecare dată. Astfel vei putea captura o parte mai mare din amprentă."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Folosiți Pixel Imprint pentru a debloca tableta</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Folosiți Pixel Imprint pentru a debloca telefonul</string>
     <string name="settingslib_learn_more_text">Află mai multe despre Deblocarea cu amprenta</string>
 </resources>

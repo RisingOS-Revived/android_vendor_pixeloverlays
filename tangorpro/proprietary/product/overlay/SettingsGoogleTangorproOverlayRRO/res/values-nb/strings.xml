@@ -20,6 +20,6 @@ Merk: Du kan ikke bruke fingeravtrykket ditt til å låse opp denne enheten. Kon
     <string name="security_settings_sfps_enroll_start_message">"Ta på sensoren uten å trykke på den. Løft fingeren etter hver berøring.
 
 Flytt fingeren litt hver gang. På den måten registrerer du mer av fingeravtrykket."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Bruk Pixel Imprint til å låse opp nettbrettet ditt</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Bruk Pixel Imprint til å låse opp telefonen din</string>
     <string name="settingslib_learn_more_text">Finn ut mer om opplåsing med fingeravtrykk</string>
 </resources>

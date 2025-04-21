@@ -20,6 +20,6 @@ Poznámka: Toto zariadenie sa odtlačkom prsta odomknúť nedá. Ďalšie inform
     <string name="security_settings_sfps_enroll_start_message">"Dotknite sa senzora, ale nestláčajte ho. Po každom dotyku zodvihnite prst.
 
 Prstom zakaždým trocha pohýbte. Takto sa nasníma väčšia časť odtlačku vášho prsta."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Odomykajte svoj tablet pomocou funkcie Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Odomykajte svoj telefón pomocou funkcie Pixel Imprint</string>
     <string name="settingslib_learn_more_text">Ďalšie informácie o odomknutí odtlačkom prsta</string>
 </resources>

@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"יש לגעת בחיישן בלי ללחוץ עליו. צריך להרים את האצבע לאחר כל נגיעה.
 
 יש להזיז מעט את האצבע בכל פעם. כך יתועד חלק גדול יותר מהאצבע."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">‏יש להשתמש ב-Pixel Imprint כדי לבטל את נעילת הטאבלט</string>
+    <string name="suggested_fingerprint_lock_settings_summary">‏יש להשתמש ב-Pixel Imprint כדי לבטל את נעילת הטלפון</string>
     <string name="settingslib_learn_more_text">מידע נוסף על ביטול הנעילה בטביעת אצבע</string>
 </resources>

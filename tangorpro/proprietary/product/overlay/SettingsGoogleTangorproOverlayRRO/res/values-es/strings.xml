@@ -20,6 +20,6 @@ Nota: No puedes utilizar tu huella digital para desbloquear este dispositivo. Pa
     <string name="security_settings_sfps_enroll_start_message">"Toca el sensor sin mantenerlo pulsado. Levanta el dedo después de cada toque.
 
 Mueve el dedo ligeramente cada vez para poder capturar una parte mayor de tu huella digital."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Utiliza Pixel Imprint para desbloquear tu tablet</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Utiliza Pixel Imprint para desbloquear tu teléfono</string>
     <string name="settingslib_learn_more_text">Más información sobre Desbloqueo con huella digital</string>
 </resources>

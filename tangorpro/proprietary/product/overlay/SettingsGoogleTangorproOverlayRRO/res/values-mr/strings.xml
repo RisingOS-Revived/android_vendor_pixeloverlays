@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"सेन्सर प्रेस न करता त्याला स्पर्श करा. प्रत्येक स्पर्शानंतर तुमचे बोट उचला.
 
 प्रत्येक वेळी तुमचे बोट किंचित हलवा. हे तुमची फिंगरप्रिंट आणखी स्पष्टपणे कॅप्चर करण्यात मदत करते."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">तुमचा टॅबलेट अनलॉक करण्‍यासाठी Pixel Imprint वापरा</string>
+    <string name="suggested_fingerprint_lock_settings_summary">तुमचा फोन अनलॉक करण्‍यासाठी Pixel Imprint वापरा</string>
     <string name="settingslib_learn_more_text">फिंगरप्रिंट अनलॉक याविषयी अधिक जाणून घ्या</string>
 </resources>

@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"轻触传感器，但不要按下。每次轻触后都抬起手指。
 
 每次都轻轻地移动手指。这有助于采集更完整的指纹。"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">使用 Pixel Imprint 来解锁您的平板电脑</string>
+    <string name="suggested_fingerprint_lock_settings_summary">使用 Pixel Imprint 来解锁您的手机</string>
     <string name="settingslib_learn_more_text">详细了解“指纹解锁”</string>
 </resources>

@@ -14,12 +14,12 @@
 ನೀವು ಯಾರ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್‌ಗಳನ್ನು ಸೇರಿಸುತ್ತೀರಿ ಎಂಬುದರ ಕುರಿತು ಎಚ್ಚರದಿಂದಿರಿ. ಸೇರಿಸಲಾದ ಯಾವುದೇ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್‌ಗಳಿಗೆ ಈ ಕಾರ್ಯಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.
 
 ಗಮನಿಸಿ: ಈ ಸಾಧನವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನೀವು ನಿಮ್ಮ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint ಅನ್ನು ಹೊಂದಿಸಿ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Pixel Imprint ಅನ್ನು ಸೆಟಪ್ ಮಾಡಿ</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
     <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
     <string name="security_settings_sfps_enroll_start_message">"ಸೆನ್ಸರ್ ಅನ್ನು ಒತ್ತದೆ ಸ್ಪರ್ಶಿಸಿ. ಪ್ರತಿ ಬಾರಿ ಸ್ಪರ್ಶಿಸಿದ ನಂತರ ನಿಮ್ಮ ಬೆರಳನ್ನು ಮೇಲಕ್ಕೆತ್ತಿ.
 
 ಪ್ರತಿ ಬಾರಿ ನಿಮ್ಮ ಬೆರಳನ್ನು ಸ್ವಲ್ಪ ಸರಿಸಿ. ಇದು ನಿಮ್ಮ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಕುರಿತು ಇನ್ನಷ್ಟು ಮಾಹಿತಿಯನ್ನು ಕ್ಯಾಪ್ಚರ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಅನ್‌ಲಾಕ್ ಮಾಡಲು Pixel Imprint ಬಳಸಿ</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು Pixel Imprint ಬಳಸಿ</string>
     <string name="settingslib_learn_more_text">ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್‌ಲಾಕ್ ಕುರಿತು ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಿ</string>
 </resources>

@@ -20,6 +20,6 @@ Yazi: Awukwazi ukusebenzisa izigxivizo zeminwe zakho ukuze uvule le divayisi. Uk
     <string name="security_settings_sfps_enroll_start_message">"Thinta inzwa ngaphandle kokuyicindezela. Phakamisa umunwe wakho ngemva kokuthinta ngakunye.
 
 Hambisa umunwe wakho kancane isikhathi ngasinye. Lokhu kusiza ukuthatha iningi lesigxivizo sakho somunwe."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Sebenzisa i-Pixel Imprint ukuvula ithebhulethi yakho</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Sebenzisa i-Pixel Imprint ukuvula ifoni yakho</string>
     <string name="settingslib_learn_more_text">Funda kabanzi mayelana Nokuvula Isigxivizo Somunwe</string>
 </resources>

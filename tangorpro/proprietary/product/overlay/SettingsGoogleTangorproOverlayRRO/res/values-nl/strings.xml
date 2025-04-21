@@ -20,6 +20,6 @@ Opmerking: Je kunt je vingerafdruk niet gebruiken om dit apparaat te ontgrendele
     <string name="security_settings_sfps_enroll_start_message">"Raak de sensor aan zonder erop te drukken. Haal je vinger van de sensor na elke aanraking.
 
 Beweeg je vinger steeds een beetje. Zo kan er meer van je vingerafdruk worden geregistreerd."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Gebruik Pixel Imprint om je tablet te ontgrendelen</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Gebruik Pixel Imprint om je telefoon te ontgrendelen</string>
     <string name="settingslib_learn_more_text">Meer informatie over ontgrendelen met vingerafdruk</string>
 </resources>

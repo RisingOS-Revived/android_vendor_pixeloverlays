@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"Торкніться сканера, не натискаючи його. Піднімайте палець після кожного дотику.
 
 Щоразу трохи переміщуйте палець. Це допоможе записати відбиток більшої площі пальця."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Розблоковуйте планшет за допомогою Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Розблоковуйте телефон за допомогою Pixel Imprint</string>
     <string name="settingslib_learn_more_text">Докладніше про розблокування відбитком пальця</string>
 </resources>

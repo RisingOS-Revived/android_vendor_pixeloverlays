@@ -20,6 +20,6 @@ Qeyd: Bu cihazı kiliddən çıxarmaq üçün barmaq izini istifadə edə bilmə
     <string name="security_settings_sfps_enroll_start_message">"Sensora basmadan toxunun. Hər toxunuşdan sonra barmağınızı qaldırın.
 
 Hər dəfə barmağınızı bir az hərəkət etdirin. Bu, barmaq izinizi daha yaxşı çəkməyə kömək edir."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Planşet kilidini açmaq üçün Pixel Imprint istifadə edin</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Telefon kilidini açmaq üçün Pixel Imprint istifadə edin</string>
     <string name="settingslib_learn_more_text">Barmaq izi ilə açma haqqında</string>
 </resources>

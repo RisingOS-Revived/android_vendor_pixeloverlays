@@ -20,6 +20,6 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="security_settings_sfps_enroll_start_message">"Bastırmadan sensöre dokunun. Her dokunuştan sonra parmağınızı kaldırın.
 
 Her seferinde parmağınızı hafifçe hareket ettirin. Bu şekilde parmak iziniz daha fazla yakalanabilir."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Tabletinizin kilidini Pixel Imprint ile açın</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Telefonunuzun kilidini Pixel Imprint ile açın</string>
     <string name="settingslib_learn_more_text">Parmak İzi Kilidi hakkında daha fazla bilgi edinin</string>
 </resources>

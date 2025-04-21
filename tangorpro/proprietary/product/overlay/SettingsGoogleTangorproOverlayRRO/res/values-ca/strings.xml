@@ -20,6 +20,6 @@ Nota: No pots fer servir l'empremta digital per desbloquejar aquest dispositiu. 
     <string name="security_settings_sfps_enroll_start_message">"Toca el sensor sense prémer-lo. Aixeca el dit després de cada toc.
 
 Mou el dit lleugerament cada vegada. Això ajuda a capturar una part més gran de l'empremta digital."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Fes servir Pixel Imprint per desbloquejar la tauleta</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Fes servir Pixel Imprint per desbloquejar el telèfon</string>
     <string name="settingslib_learn_more_text">Més informació sobre Desbloqueig amb empremta digital</string>
 </resources>

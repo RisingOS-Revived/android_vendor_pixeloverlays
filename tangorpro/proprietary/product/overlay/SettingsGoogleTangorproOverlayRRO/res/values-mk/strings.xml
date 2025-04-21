@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"Допрете го сензорот без да го притискате. Кревајте го прстот по секој допир.
 
 Поместувајте го секојпат по малку. Ова помага да се сними повеќе од отпечатокот."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Користете Pixel Imprint за отклучување на таблетот</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Користете Pixel Imprint за отклучување на телефонот</string>
     <string name="settingslib_learn_more_text">Дознајте повеќе за „Отклучување со отпечаток на прст“</string>
 </resources>

@@ -20,6 +20,6 @@ Hinweis: Dieses Gerät kann nicht per Fingerabdruck entsperrt werden. Weitere In
     <string name="security_settings_sfps_enroll_start_message">"Berühre den Sensor mit dem Finger, ohne dabei Druck auszuüben. Hebe deinen Finger nach jeder Berührung an.
 
 Bewege deinen Finger jedes Mal ein wenig. Dadurch kann dein Fingerabdruck besser erfasst werden."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Zum Entsperren des Tablets Pixel Imprint nutzen</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Zum Entsperren des Smartphones Pixel Imprint nutzen</string>
     <string name="settingslib_learn_more_text">Weitere Informationen zur Entsperrung per Fingerabdruck</string>
 </resources>

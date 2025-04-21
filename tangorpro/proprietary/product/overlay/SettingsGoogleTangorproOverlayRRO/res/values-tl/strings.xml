@@ -20,6 +20,6 @@ Tandaan: Hindi mo maaaring gamitin ang iyong fingerprint para i-unlock ang devic
     <string name="security_settings_sfps_enroll_start_message">"Hawakan ang sensor nang hindi ito pinipindot. Iangat ang iyong daliri pagkatapos ng bawat paghawak.
 
 Bahagyang igalaw ang daliri mo sa bawat pagkakataon. Makakatulong itong mas makuha ang iyong fingerprint."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Gamitin ang Pixel Imprint para i-unlock ang iyong tablet</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Gamitin ang Pixel Imprint para i-unlock ang iyong telepono</string>
     <string name="settingslib_learn_more_text">Matuto pa tungkol sa Pag-unlock Gamit ang Fingerprint</string>
 </resources>

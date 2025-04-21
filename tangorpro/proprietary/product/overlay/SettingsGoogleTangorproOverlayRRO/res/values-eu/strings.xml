@@ -20,6 +20,6 @@ Oharra: ezin duzu erabili hatz-marka gailua desblokeatzeko. Informazio gehiago l
     <string name="security_settings_sfps_enroll_start_message">"Sakatu sentsorea presiorik egin gabe. Sakatzen duzun aldi bakoitzaren ondoren, jaso hatza.
 
 Hatzak sentsorea sakatzen duen bakoitzean, mugitu hatza apur bat. Horrela, hatz-markaren eremu zabalago bat hartzen da."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Erabili Pixel Imprint tableta desblokeatzeko</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Erabili Pixel Imprint telefonoa desblokeatzeko</string>
     <string name="settingslib_learn_more_text">Lortu hatz-marka bidez desblokeatzeko eginbideari buruzko informazio gehiago</string>
 </resources>

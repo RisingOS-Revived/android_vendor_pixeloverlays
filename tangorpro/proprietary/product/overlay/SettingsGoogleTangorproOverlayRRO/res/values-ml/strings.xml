@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"സെൻസറിൽ അമർത്താതെത്തന്നെ സ്‌പർശിക്കുക. ഓരോ തവണ സ്‌പർശിച്ച് കഴിയുമ്പോഴും വിരലെടുക്കുക.
 
 ഓരോ തവണയും വിരൽ നേരിയതോതിൽ നീക്കുക. ഇത് നിങ്ങളുടെ ഫിംഗർപ്രിന്റ് കൂടുതൽ സമഗ്രമായി ക്യാപ്‌ചർ ചെയ്യാൻ സഹായിക്കും."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">ടാബ്‌ലെറ്റ് അൺലോക്ക് ചെയ്യാൻ Pixel Imprint ഉപയോഗിക്കുക</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ഫോൺ അൺലോക്ക് ചെയ്യാൻ Pixel Imprint ഉപയോഗിക്കുക</string>
     <string name="settingslib_learn_more_text">ഫിംഗർപ്രിന്റ് അൺലോക്കിനെ കുറിച്ച് കൂടുതലറിയുക</string>
 </resources>

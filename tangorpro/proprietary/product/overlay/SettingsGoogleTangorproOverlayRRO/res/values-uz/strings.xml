@@ -20,6 +20,6 @@ Eslatma: Barmoq izi orqali bu qurilmani qulfdan chiqara olmaysiz. Batafsil axbor
     <string name="security_settings_sfps_enroll_start_message">"Sensorni bosmasdan ustiga tegining. Har safar teginganda barmogʻingizni oling.
 
 Har safar barmoqni asta suring. Bu barmoq izingizning toʻliq yozib olinishiga yordam beradi."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint yordamida planshetni qulfdan chiqaring</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint yordamida telefonni qulfdan chiqaring</string>
     <string name="settingslib_learn_more_text">Barmoq izi bilan ochish haqida batafsil</string>
 </resources>
