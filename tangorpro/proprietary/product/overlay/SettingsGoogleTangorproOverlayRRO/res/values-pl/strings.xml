@@ -20,6 +20,6 @@ Uwaga: nie możesz odblokowywać tego urządzenia odciskiem palca. Aby uzyskać 
     <string name="security_settings_sfps_enroll_start_message">"Dotknij czujnika, ale go nie naciskaj. Po każdym dotknięciu podnieś palec.
 
 Za każdym razem lekko obracaj palec. Dzięki temu zeskanujesz większą część odcisku palca."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Odblokuj tablet za pomocą funkcji Pixel Imprint</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Odblokuj telefon za pomocą funkcji Pixel Imprint</string>
     <string name="settingslib_learn_more_text">Więcej informacji o odblokowywaniu odciskiem palca</string>
 </resources>

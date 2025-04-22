@@ -20,6 +20,6 @@ Märkus. Te ei saa selle seadme avamiseks sõrmejälge kasutada. Lisateabe saami
     <string name="security_settings_sfps_enroll_start_message">"Puudutage andurit ilma seda vajutamata. Eemaldage sõrm pärast iga puudutust.
 
 Liigutage iga kord pisut sõrme. See aitab jäädvustada suurema osa teie sõrmejäljest."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Kasutage tahvelarvuti avamiseks Pixel Imprinti</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Kasutage telefoni avamiseks Pixel Imprinti</string>
     <string name="settingslib_learn_more_text">Vaadake lisateavet sõrmejäljega avamise kohta</string>
 </resources>

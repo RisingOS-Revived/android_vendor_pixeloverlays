@@ -20,6 +20,6 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="security_settings_sfps_enroll_start_message">"Touchez le capteur sans appuyer dessus. Relevez le doigt après chaque contact.
 
 Déplacez légèrement votre doigt chaque fois. Cela permet de mieux capturer votre empreinte."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Utiliser Pixel Imprint pour déverrouiller la tablette</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Utiliser Pixel Imprint pour déverrouiller le téléphone</string>
     <string name="settingslib_learn_more_text">En savoir plus sur le déverrouillage par empreinte digitale</string>
 </resources>

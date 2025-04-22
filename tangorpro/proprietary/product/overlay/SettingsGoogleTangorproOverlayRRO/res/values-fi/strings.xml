@@ -20,6 +20,6 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
     <string name="security_settings_sfps_enroll_start_message">"Kosketa anturia painamatta sitä. Nosta sormi joka kosketuksen jälkeen.
 
 Liikuta sormeasi hieman joka kerralla. Tämä auttaa tallentamaan suuremman osan sormenjäljestäsi."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Avaa tabletin lukitus Pixel Imprintillä</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Avaa puhelimen lukitus Pixel Imprintillä</string>
     <string name="settingslib_learn_more_text">Lue lisää sormenjälkiavauksesta</string>
 </resources>

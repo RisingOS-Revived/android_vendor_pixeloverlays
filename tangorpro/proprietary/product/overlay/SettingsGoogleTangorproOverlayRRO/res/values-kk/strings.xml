@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"Саусағыңызды сенсорға тигізіңіз, бірақ баспаңыз. Тигізген сайын саусағыңызды көтеріңіз.
 
 Әр кез саусақты аздап жылжытып отырыңыз. Осылай саусақ ізінің көбірек бөлігі қамтылады."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Планшет құлпын Pixel Imprint арқылы ашу</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Телефон құлпын Pixel Imprint арқылы ашу</string>
     <string name="settingslib_learn_more_text">Саусақ ізімен ашу туралы толық ақпарат</string>
 </resources>

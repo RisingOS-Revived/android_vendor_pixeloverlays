@@ -20,6 +20,6 @@ Kumbuka: Huwezi kutumia alama ya kidole chako kufungua kifaa hiki. Kwa maelezo z
     <string name="security_settings_sfps_enroll_start_message">"Gusa kitambuzi bila kukibonyeza. Inua kidole chako baada ya kila mguso.
 
 Sogeza kidogo kidole chako kila wakati. Hatua hii inasaidia kunasa asilimia kubwa ya alama ya kidole chako."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Tumia Pixel Imprint kufungua kompyuta kibao yako</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Tumia Pixel Imprint kufungua simu yako</string>
     <string name="settingslib_learn_more_text">Pata maelezo zaidi kuhusu kipengele cha Kufungua kwa Alama ya Kidole</string>
 </resources>

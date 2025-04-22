@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"পাৱাৰ ছেন্সৰটো নিটিপাকৈ সেইটোত স্পৰ্শ কৰক। প্ৰতিবাৰ স্পৰ্শ কৰাৰ পাছত আপোনাৰ আঙুলিটো উঠাওক।
 
 প্ৰতিবাৰেই আপোনাৰ আঙুলিটো অলপ লৰচৰ কৰক। এইটোৱে আপোনাৰ ফিংগাৰপ্ৰিণ্টৰ অধিক তথ্য কেপচাৰ কৰাত সহায় কৰে।"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">আপোনাৰ টেবলেটটো আনলক কৰিবলৈ Pixel Imprint ব্যৱহাৰ কৰক</string>
+    <string name="suggested_fingerprint_lock_settings_summary">আপোনাৰ ফ’নটো আনলক কৰিবলৈ Pixel Imprint ব্যৱহাৰ কৰক</string>
     <string name="settingslib_learn_more_text">ফিংগাৰপ্ৰিণ্ট আনলকৰ বিষয়ে অধিক জানক</string>
 </resources>

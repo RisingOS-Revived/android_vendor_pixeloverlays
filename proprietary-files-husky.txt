@@ -1,4 +1,4 @@
-# All blobs below are extracted from husky AP3A.241105.008
+# All blobs below are extracted from husky BP1A.250405.005.B1 release-keys
 
 # Pixel Overlays
 -product/overlay/AvatarPickerPixelOverlay.apk

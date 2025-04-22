@@ -20,6 +20,6 @@ Shënim. Nuk mund ta përdorësh gjurmën tënde të gishtit për ta shkyçur k�
     <string name="security_settings_sfps_enroll_start_message">"Prek sensorin pa e shtypur atë. Ngrije gishtin pas çdo prekjeje.
 
 Lëvize paksa gishtin çdo herë. Kjo ndihmon për të regjistruar një pjesë më të madhe të gjurmës së gishtit tënd."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Përdor Pixel Imprint për të shkyçur tabletin tënd</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Përdor Pixel Imprint për të shkyçur telefonin tënd</string>
     <string name="settingslib_learn_more_text">Mëso më shumë për \"Shkyçjen me gjurmën e gishtit\"</string>
 </resources>

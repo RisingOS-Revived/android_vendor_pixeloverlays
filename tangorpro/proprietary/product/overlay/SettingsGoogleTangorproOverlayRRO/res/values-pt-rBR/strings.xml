@@ -20,6 +20,6 @@ Observação: não é possível usar sua impressão digital para desbloquear est
     <string name="security_settings_sfps_enroll_start_message">"Toque no sensor sem pressionar. Levante o dedo a cada toque.
 
 Depois de cada toque, tire o dedo da tela antes de tocar de novo. Assim, a captura da impressão é mais precisa."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Use o \"Pixel Imprint\" para desbloquear o tablet</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Use o \"Pixel Imprint\" para desbloquear o smartphone</string>
     <string name="settingslib_learn_more_text">Saiba mais sobre o Desbloqueio por impressão digital</string>
 </resources>

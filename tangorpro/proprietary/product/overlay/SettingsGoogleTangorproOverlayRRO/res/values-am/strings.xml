@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"ዳሳሹን ሳይጫኑት ይንኩት። ከእያንዳንዱ ንክኪ በኋላ ጣትዎን ያንሱ።
 
 በእያንዳንዱ ጊዜ ጣትዎን ትንሽ ያንቀሳቅሱ። ይህ ተጨማሪ የጣት አሻራዎን ክፍል እንዲይዝ ያግዛል።"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">ጡባዊዎን ለመክፈት Pixel Imprintን ይጠቀሙ</string>
+    <string name="suggested_fingerprint_lock_settings_summary">የእርስዎን Pixel Imprint ለመክፈት ይጠቀሙ</string>
     <string name="settingslib_learn_more_text">ስለ በጣት አሻራ መክፈቻ የበለጠ ይወቁ</string>
 </resources>

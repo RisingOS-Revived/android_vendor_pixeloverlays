@@ -6,4 +6,4 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/pixeloverlays/tangorpro
 
 
-include vendor/pixeloverlays/husky/overlays.mk
+include vendor/pixeloverlays/tangorpro/overlays.mk

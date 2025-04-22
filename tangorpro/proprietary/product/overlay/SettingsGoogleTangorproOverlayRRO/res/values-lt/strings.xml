@@ -20,6 +20,6 @@ Pastaba: naudodami kontrolinį kodą šio įrenginio atrakinti negalite. Daugiau
     <string name="security_settings_sfps_enroll_start_message">"Palieskite jutiklį jo nespausdami. Pakelkite pirštą po kiekvieno palietimo.
 
 Kaskart šiek tiek pajudinkite pirštą. Taip užfiksuojama daugiau piršto atspaudo."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">„Pixel Imprint“ – planšetiniam kompiuteriui atrakinti</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Naudokite „Pixel Imprint“ telefonui atrakinti</string>
     <string name="settingslib_learn_more_text">Sužinokite daugiau apie atrakinimą piršto atspaudu</string>
 </resources>

@@ -20,6 +20,6 @@ Nota: Non podes usar a túa impresión dixital para desbloquear este dispositivo
     <string name="security_settings_sfps_enroll_start_message">"Toca o sensor sen premelo. Levanta o dedo despois de cada toque.
 
 Move o dedo levemente de cada vez. Ao facelo, axudas a capturar unha parte máis ampla da túa impresión dixital."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Utiliza Pixel Imprint para desbloquear a túa tableta</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Utiliza Pixel Imprint para desbloquear o teléfono</string>
     <string name="settingslib_learn_more_text">Máis información sobre o desbloqueo dactilar</string>
 </resources>

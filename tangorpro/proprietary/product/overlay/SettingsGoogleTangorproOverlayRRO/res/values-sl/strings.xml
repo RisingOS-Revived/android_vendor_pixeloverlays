@@ -20,6 +20,6 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
     <string name="security_settings_sfps_enroll_start_message">"Dotaknite se tipala, ne da bi ga pritisnili. Po vsakem dotiku dvignite prst.
 
 Prst vsakič nekoliko premaknite. Tako bo sistem lahko zajel večji del prstnega odtisa."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Uporaba funkcije Pixel Imprint za odklepanje tab. rač.</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Uporaba funkcije Pixel Imprint za odklepanje telefona</string>
     <string name="settingslib_learn_more_text">Več o odklepanju s prstnim odtisom</string>
 </resources>

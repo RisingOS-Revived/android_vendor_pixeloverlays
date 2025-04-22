@@ -20,6 +20,6 @@ Perhatian: Anda tidak boleh menggunakan cap jari untuk membuka kunci peranti ini
     <string name="security_settings_sfps_enroll_start_message">"Sentuh penderia tanpa menekan penderia. Angkat jari anda selepas setiap sentuhan.
 
 Gerakkan jari anda sedikit setiap kali. Ini akan membantu penderia menangkap lebih banyak permukaan cap jari anda."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Gunakan Pixel Imprint untuk membuka kunci tablet anda</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Gunakan Pixel Imprint untuk membuka kunci telefon anda</string>
     <string name="settingslib_learn_more_text">Ketahui lebih lanjut tentang Buka Kunci Cap Jari</string>
 </resources>

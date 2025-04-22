@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"سینسر کو دبائے بغیر اسے ٹچ کریں۔ ہر ٹچ کے بعد اپنی انگلی اٹھائیں۔
 
 ہر بار اپنی انگلی کو تھوڑا منتقل کریں۔ اس سے آپ کے فنگر پرنٹ کے مزید حصوں کو کیپچر کرنے میں مدد ملے گی۔"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">‏اپنا ٹیبلیٹ غیر مقفل کرنے کے لئے Pixel Imprint کا استعمال کریں</string>
+    <string name="suggested_fingerprint_lock_settings_summary">‏اپنا فون غیر مقفل کرنے کے لئے Pixel Imprint کا استعمال کریں</string>
     <string name="settingslib_learn_more_text">فنگر پرنٹ اَن لاک کے بارے میں مزید جانیں</string>
 </resources>

@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"センサーを押さずに軽く触れてください。センサーに触れたら指を離し、再び繰り返します。
 
 指は毎回、少しずつ動かしてください。それで指紋を正しく登録することができます。"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint でタブレットのロックを解除できます</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint でスマートフォンのロックを解除できます</string>
     <string name="settingslib_learn_more_text">指紋認証の詳細</string>
 </resources>

@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"အာရုံခံကိရိယာကို မဖိဘဲ ထိပါ။ တစ်ကြိမ်ထိပြီးတိုင်း သင့်လက်ချောင်းကို ‘မ’ ပါ။
 
 အကြိမ်တိုင်းတွင် လက်ချောင်းအနေအထား နည်းနည်းစီ ပြောင်းပါ။ ၎င်းက သင့်လက်ဗွေကို ပိုမိုမှတ်သားပေးသည်။"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Pixel Imprint ကို သုံးပြီး သင့်တက်ဘလက်ကို ဖွင့်ပါ</string>
+    <string name="suggested_fingerprint_lock_settings_summary">သင့်ဖုန်းကို ဖွင့်ရန် Pixel Imprint ကို သုံးပါ</string>
     <string name="settingslib_learn_more_text">‘လက်ဗွေသုံး လော့ခ်ဖွင့်ခြင်း’ အကြောင်း ပိုမိုလေ့လာရန်</string>
 </resources>

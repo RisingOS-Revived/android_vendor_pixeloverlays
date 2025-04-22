@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"請輕觸感應器，但不要按下。每次輕觸後，請提起手指。
 
 每次輕觸時，請稍稍移動手指位置，以便記錄更多指紋。"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">使用 Pixel Imprint 解鎖平板電腦</string>
+    <string name="suggested_fingerprint_lock_settings_summary">使用 Pixel Imprint 解鎖手機</string>
     <string name="settingslib_learn_more_text">進一步瞭解「指紋解鎖」</string>
 </resources>

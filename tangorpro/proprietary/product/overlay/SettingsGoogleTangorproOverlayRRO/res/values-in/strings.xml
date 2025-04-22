@@ -20,6 +20,6 @@ Catatan: Anda tidak dapat menggunakan sidik jari untuk membuka kunci perangkat. 
     <string name="security_settings_sfps_enroll_start_message">"Sentuh sensor tanpa menekannya. Angkat jari setelah setiap sentuhan.
 
 Gerakkan jari sedikit setiap kali getaran terasa. Tindakan ini membantu merekam sidik jari Anda secara lebih menyeluruh."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Gunakan Pixel Imprint untuk membuka kunci tablet</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Gunakan Pixel Imprint untuk membuka kunci ponsel</string>
     <string name="settingslib_learn_more_text">Pelajari Buka dengan Sidik Jari lebih lanjut</string>
 </resources>

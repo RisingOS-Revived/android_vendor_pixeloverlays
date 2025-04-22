@@ -20,6 +20,6 @@ Napomena: Otisak prsta ne možete koristiti za otključavanje ovog uređaja. Za 
     <string name="security_settings_sfps_enroll_start_message">"Dodirnite senzor, a da ga ne pritisnete. Podignite prst nakon svakog dodira.
 
 Svaki put malo pomjerite prst. Na ovaj način se snima veći dio otiska prsta."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Koristite Pixel Imprint za otključavanje tableta</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Koristite Pixel Imprint za otključavanje telefona</string>
     <string name="settingslib_learn_more_text">Saznajte više o otključavanju otiskom prsta</string>
 </resources>

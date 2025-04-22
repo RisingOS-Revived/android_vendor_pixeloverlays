@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"ਸੈਂਸਰ ਨੂੰ ਦਬਾਏ ਬਿਨਾਂ ਇਸਨੂੰ ਸਪਰਸ਼ ਕਰੋ। ਸਪਰਸ਼ ਕਰਨ ਤੋਂ ਬਾਅਦ ਆਪਣੀ ਉਂਗਲ ਨੂੰ ਚੁੱਕੋ।
 
 ਆਪਣੀ ਉਂਗਲ ਨੂੰ ਹਰ ਵਾਰ ਹਲਕਾ ਜਿਹਾ ਹਿਲਾਓ। ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨੂੰ ਬਿਹਤਰ ਢੰਗ ਨਾਲ ਕੈਪਚਰ ਕਰਨ ਵਿੱਚ ਮਦਦ ਮਿਲਦੀ ਹੈ।"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">ਆਪਣਾ ਟੈਬਲੈੱਟ ਅਣਲਾਕ ਕਰਨ ਲਈ Pixel Imprint ਵਰਤੋ</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ਆਪਣਾ ਫ਼ੋਨ ਅਣਲਾਕ ਕਰਨ ਲਈ Pixel Imprint ਵਰਤੋ</string>
     <string name="settingslib_learn_more_text">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅਣਲਾਕ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</string>
 </resources>

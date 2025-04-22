@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"සංවේදකය තද නොකර එය ස්පර්ශ කරන්න. එක් එක් ස්පර්ශයෙන් පසු ඔබේ ඇඟිල්ල ඔසවන්න.
 
 එක් එක් වතාවේ ඔබේ ඇඟිල්ල තරමක් ගෙන යන්න. මෙය ඔබේ ඇඟිලි සලකුණේ වැඩි ප්‍රමාණයක් ග්‍රහණය කර ගැනීමට උදවු වේ."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">ඔබේ ටැබ්ලට් එක අගුලු හැරීමට Pixel Imprint භාවිත කරන්න</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ඔබගේ දුරකථනය අගුලු හැරීමට Pixel Imprint භාවිත කරන්න</string>
     <string name="settingslib_learn_more_text">ඇඟිලි සලකුණු අගුළු හැරීම පිළිබඳව තව දැන ගන්න</string>
 </resources>

@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"แตะเซ็นเซอร์โดยไม่ต้องกด ยกนิ้วขึ้นหลังแตะแต่ละครั้ง
 
 ขยับนิ้วเล็กน้อยในแต่ละครั้ง การทำเช่นนี้จะช่วยให้บันทึกลายนิ้วมือของคุณได้มากขึ้น"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">ใช้ Pixel Imprint เพื่อปลดล็อกแท็บเล็ต</string>
+    <string name="suggested_fingerprint_lock_settings_summary">ใช้ Pixel Imprint ปลดล็อกโทรศัพท์</string>
     <string name="settingslib_learn_more_text">ดูข้อมูลเพิ่มเติมเกี่ยวกับการปลดล็อกด้วยลายนิ้วมือ</string>
 </resources>

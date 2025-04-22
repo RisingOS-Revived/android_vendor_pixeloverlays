@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"Мэдрэгч дээр даралгүйгээр хүрнэ үү. Хүрэх бүрдээ дараа нь хуруугаа өргөнө үү.
 
 Хүрэх бүрдээ хуруугаа бага багаар хөдөлгөнө үү. Энэ нь таны хурууны хээний илүү их зургийг авахад тусална."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Таблетынхаа түгжээг тайлахын тулд Pixel Imprint-г ашиглана уу</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Утасныхаа түгжээг тайлахын тулд Pixel Imprint-г ашиглана уу</string>
     <string name="settingslib_learn_more_text">Хурууны хээгээр түгжээ тайлах талаар нэмэлт мэдээлэл авах</string>
 </resources>

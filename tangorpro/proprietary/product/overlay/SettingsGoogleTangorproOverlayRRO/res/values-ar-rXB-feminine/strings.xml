@@ -20,5 +20,5 @@
     <string name="security_settings_sfps_enroll_start_message">"(F)‏‮Touch‬‏ ‏‮the‬‏ ‏‮sensor‬‏ ‏‮without‬‏ ‏‮pressing‬‏ ‏‮it.‬‏ ‏‮Lift‬‏ ‏‮your‬‏ ‏‮finger‬‏ ‏‮after‬‏ ‏‮each‬‏ ‏‮touch.‬‏
 
 ‏‮Move‬‏ ‏‮your‬‏ ‏‮finger‬‏ ‏‮slightly‬‏ ‏‮each‬‏ ‏‮time.‬‏ ‏‮This‬‏ ‏‮helps‬‏ ‏‮capture‬‏ ‏‮more‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮fingerprint.‬‏"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">(F)‏‮Use‬‏ ‏‮Pixel‬‏ ‏‮Imprint‬‏ ‏‮to‬‏ ‏‮unlock‬‏ ‏‮your‬‏ ‏‮tablet‬‏</string>
+    <string name="suggested_fingerprint_lock_settings_summary">(F)‏‮Use‬‏ ‏‮Pixel‬‏ ‏‮Imprint‬‏ ‏‮to‬‏ ‏‮unlock‬‏ ‏‮your‬‏ ‏‮phone‬‏</string>
 </resources>

@@ -20,6 +20,6 @@ Piezīme. Pirksta nospiedumu nevar izmantot šīs ierīces atbloķēšanai. Lai 
     <string name="security_settings_sfps_enroll_start_message">"Pieskarieties sensoram, bet nenospiediet to. Pēc katras pieskaršanās reizes paceliet pirkstu.
 
 Katru reizi nedaudz pakustiniet pirkstu. Šādā veidā sensors varēs uztvert plašāku pirksta nospieduma laukumu."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Atbloķējiet planšetdatoru, izmantojot Pixel Imprint.</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Atbloķējiet tālruni, izmantojot Pixel Imprint.</string>
     <string name="settingslib_learn_more_text">Plašāka informācija par autorizāciju ar pirksta nospiedumu</string>
 </resources>

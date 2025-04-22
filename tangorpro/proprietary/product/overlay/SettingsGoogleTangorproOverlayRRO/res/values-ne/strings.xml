@@ -20,6 +20,6 @@
     <string name="security_settings_sfps_enroll_start_message">"सेन्सर नथिचिने गरी हल्का छुनुहोस्। हरेक पटक छोएपछि आफ्नो औँला उठाउनुहोस्।
 
 हरेक पटक आफ्नो औँला थोरै सार्नुहोस्। यसले तपाईंको फिंगरप्रिन्टको अझ धेरै भाग क्याप्चर गर्न सघाउ पुग्छ।"</string>
-    <string name="suggested_fingerprint_lock_settings_summary">आफ्नो ट्याब्लेट अनलक गर्न Pixel Imprint को प्रयोग गर्नुहोस्</string>
+    <string name="suggested_fingerprint_lock_settings_summary">आफ्नो फोन अनलक गर्न Pixel Imprint को प्रयोग गर्नुहोस्</string>
     <string name="settingslib_learn_more_text">फिंगरप्रिन्ट अनलकका बारेमा थप जान्नुहोस्</string>
 </resources>

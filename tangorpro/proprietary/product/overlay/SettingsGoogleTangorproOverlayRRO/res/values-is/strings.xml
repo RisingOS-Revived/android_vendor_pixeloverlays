@@ -20,6 +20,6 @@ Athugaðu: Þú getur ekki notað fingrafarið til að taka lásinn af þessu t�
     <string name="security_settings_sfps_enroll_start_message">"Snertu skynjarann án þess að þrýsta á hann. Lyftu fingrinum eftir hverja snertingu.
 
 Færðu fingurinn örlítið í hvert skipti. Þannig er hægt að mynda fingrafarið þitt betur."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Notaðu Pixel Imprint til að opna spjaldtölvuna</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Notaðu Pixel Imprint til að opna símann</string>
     <string name="settingslib_learn_more_text">Nánar um fingrafarskenni</string>
 </resources>

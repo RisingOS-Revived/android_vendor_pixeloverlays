@@ -20,6 +20,6 @@ Nota: non puoi usare la tua impronta per sbloccare questo dispositivo. Per ulter
     <string name="security_settings_sfps_enroll_start_message">"Tocca il sensore senza premerlo. Solleva il dito dopo ciascun tocco.
 
 Sposta leggermente il dito ogni volta. In questo modo è più facile acquisire più parti dell'impronta."</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Usa Pixel Imprint per sbloccare il tablet</string>
+    <string name="suggested_fingerprint_lock_settings_summary">Usa Pixel Imprint per sbloccare il telefono</string>
     <string name="settingslib_learn_more_text">"Scopri di più sullo sblocco con l'impronta"</string>
 </resources>
