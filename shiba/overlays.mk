@@ -1,12 +1,8 @@
 PRODUCT_PACKAGES += \
-    AvatarPickerPixelOverlay \
     CompanionDeviceManagerOverlay \
-    DMServiceOverlay \
     DeviceDiagnosticsOverlay \
     FlipendoOverlay \
     NfcOverlayCommon \
-    PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     PixelDisplayService__shiba__auto_generated_rro_product \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleShibaOverlay \
@@ -21,6 +17,4 @@ PRODUCT_PACKAGES += \
     TraceurOverlay \
     TrafficLightFaceOverlay \
     UdfpsOverlay \
-    WildlifeSettingsVpnOverlay2022 \
-    WildlifeSysuiVpnOverlay2022 \
     SettingsGoogleShibaOverlayVendorRRO \
