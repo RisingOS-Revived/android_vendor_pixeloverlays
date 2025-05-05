@@ -1,5 +1,4 @@
-# All blobs below are extracted from raven AP3A.241105.007
-
+# All blobs below are extracted from raven BP1A.250405.007.B1 release-keys
 # Pixel Overlays
 -product/overlay/CompanionDeviceManager__nosdcard__auto_generated_characteristics_rro.apk:product/overlay/CompanionDeviceManagerOverlay.apk
 -product/overlay/DeviceAsWebcamRaven.apk
