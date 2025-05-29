@@ -23,7 +23,7 @@
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">指紋認証を使用すると、画像を基に指紋モデルが更新されます。お子様の指紋モデルの作成に使用された画像が保存されることはありませんが、指紋モデルはスマートフォンに安全に保存されます。この情報が外部に送信されることは一切なく、処理はすべてスマートフォン上で安全に行われます。</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">あなたとお子様はいつでも [設定] で指紋モデルを削除したり、指紋認証を OFF にしたりできます。指紋モデルは、削除するまでスマートフォンに保存されたままになります。</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">"詳しくは &lt;a href='http://g.co/pixel/fingerprintunlock'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt; をご覧ください。"</string>
-    <string name="security_settings_sfps_enroll_find_sensor_message">指紋認証センサーは電源ボタンに内蔵されています。スマートフォンの側面にある高さが低い方のボタンです。</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message">指紋認証センサーは電源ボタンに内蔵されています。スマートフォンの側面にあるボタンのうち、上側の短いボタンです。</string>
     <string name="security_settings_sfps_enroll_finger_center_title_immobile_overlay">指を当てる場所を、少しずつ変えます</string>
     <string name="security_settings_sfps_enroll_fingertip_title_immobile_overlay">ずらし続けて他の部分も登録します</string>
     <string name="security_settings_sfps_enroll_finish_rest_to_unlock_desc">これにより、意図しないロック解除が起こりにくくなります。この設定を OFF にすると、センサーに短時間触れただけでロックが解除されるようになります。</string>

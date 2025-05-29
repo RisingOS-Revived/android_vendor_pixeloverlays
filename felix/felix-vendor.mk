@@ -6,4 +6,4 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/pixeloverlays/felix
 
 
-include vendor/pixeloverlays/husky/overlays.mk
+include vendor/pixeloverlays/felix/overlays.mk

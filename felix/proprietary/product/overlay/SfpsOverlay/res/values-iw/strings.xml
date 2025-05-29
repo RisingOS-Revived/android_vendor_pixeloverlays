@@ -6,14 +6,14 @@
     <string name="fingerprint_unlock_skip_fingerprint">המשך בלי ביטול הנעילה בטביעת אצבע</string>
     <string name="fingerprint_unlock_title">"התכונה 'ביטול הנעילה בטביעת אצבע' מאפשרת לך לבטל את הנעילה של הטלפון באמצעות טביעת האצבע. מטעמי אבטחה, האפשרות הזו מחייבת נעילת מסך לגיבוי."</string>
     <string name="security_settings_fingerprint_enroll_consent_introduction_title">הרשאה לבטל נעילה בטביעת אצבע</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message">"חיישן טביעות האצבע נמצא בלחצן ההפעלה.
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"חיישן טביעות האצבע נמצא בכפתור ההפעלה.
 
- צריך לגעת קלות בלחצן וללא ללחוץ לחיצה ארוכה."</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_title">צריך לגעת בלחצן ההפעלה</string>
+ צריך לגעת קלות בכפתור וללא ללחוץ לחיצה ארוכה."</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_title">צריך לגעת בכפתור ההפעלה</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">"הגדרת 'פתיחה בטביעת אצבע'"</string>
     <string name="security_settings_fingerprint_enroll_repeat_title">הרמה, ונגיעה. יש להזיז מעט את האצבע בכל פעם.</string>
     <string name="security_settings_fingerprint_enroll_repeat_title_immobile_overlay">צריך להרים ולגעת בחיישן שוב</string>
-    <string name="security_settings_fingerprint_enroll_touch_dialog_message">חיישן טביעת האצבע נמצא על לחצן ההפעלה.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">חיישן טביעת האצבע נמצא על כפתור ההפעלה.</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">יש לגעת בחיישן במקום זאת</string>
     <string name="security_settings_fingerprint_preference_title">פתיחה בטביעת אצבע</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_2">"התכונה 'ביטול הנעילה בטביעת אצבע' יוצרת תבנית ייחודית של טביעת האצבע שלך כדי לאמת את זהותך. תהליך היצירה של תבנית לטביעת האצבע כולל צילום תמונות של טביעת האצבע שלך מזוויות שונות."</string>
@@ -23,7 +23,7 @@
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_3">"כשמשתמשים בתכונה 'ביטול הנעילה בטביעת אצבע', התבנית של טביעת האצבע מתעדכנת באמצעות תמונות. התמונות המשמשות ליצירת התבנית של טביעת האצבע של הילד או הילדה אף פעם לא נשמרות. התבנית של טביעת האצבע נשמרת באופן מאובטח בטלפון ואף פעם לא נשלחת או מועברת ממנו. כל פעולות העיבוד מתבצעות בטלפון באופן מאובטח."</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_4">"האפשרות למחוק את התבנית של טביעת האצבע, או להשבית את הפיצ'ר 'ביטול הנעילה בטביעת אצבע', זמינה לך ולילד או לילדה שלך בכל שלב בהגדרות. התבניות של טביעת האצבע נשמרות בטלפון עד שהן נמחקות."</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_message_learn_more">"‏מידע נוסף זמין בכתובת &lt;a href='http://g.co/pixel/fingerprintunlock'&gt;g.co/pixel/fingerprintunlock&lt;/a&gt;."</string>
-    <string name="security_settings_sfps_enroll_find_sensor_message">חיישן טביעות האצבע נמצא על לחצן ההפעלה. לחצן ההפעלה הוא הלחצן הקצר יותר בצד של הטלפון.</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message">חיישן טביעות האצבע נמצא על כפתור ההפעלה. כפתור ההפעלה הוא הכפתור הקצר יותר בצד של הטלפון.</string>
     <string name="security_settings_sfps_enroll_finger_center_title_immobile_overlay">יש להזיז קצת את האצבע בכל פעם</string>
     <string name="security_settings_sfps_enroll_fingertip_title_immobile_overlay">יש להמשיך להזיז את האצבע כדי לתעד חלקים אחרים של טביעת האצבע</string>
     <string name="security_settings_sfps_enroll_finish_rest_to_unlock_desc">כך אפשר להקטין את הסיכוי לביטול נעילה בטעות. כשההגדרה הזו מושבתת, נגיעה קצרה בחיישן תבטל את הנעילה.</string>
