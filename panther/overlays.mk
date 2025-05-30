@@ -1,13 +1,9 @@
 PRODUCT_PACKAGES += \
     ClearCallingSettingsOverlay2022 \
     CompanionDeviceManagerOverlay \
-    DMServiceOverlay \
     DeviceDiagnosticsOverlay \
     FlipendoOverlay \
     NfcOverlayCommon \
-    NfcOverlayPanther \
-    PixelBatteryHealthOverlay \
-    PixelConfigOverlay2021 \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFuturePantherOverlay \
     SettingsGooglePantherOverlay \
@@ -22,6 +18,4 @@ PRODUCT_PACKAGES += \
     TraceurOverlay \
     TrafficLightFaceOverlay \
     UdfpsOverlay \
-    WildlifeSettingsVpnOverlay2022 \
-    WildlifeSysuiVpnOverlay2022 \
     SettingsGooglePantherOverlayVendorRRO \
