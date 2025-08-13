@@ -1,4 +1,4 @@
-# All blobs below are extracted from akita BP1A.250405.007
+# All blobs below are extracted from akita BP2A.250805.005 release-keys
 
 # Pixel Overlays
 -product/overlay/AvatarPickerPixelOverlay.apk
@@ -6,7 +6,7 @@
 -product/overlay/DeviceDiagnostics__akita__auto_generated_rro_product.apk:product/overlay/DeviceDiagnosticsOverlay.apk
 -product/overlay/DMService__akita__auto_generated_rro_product.apk:product/overlay/DMServiceOverlay.apk
 -product/overlay/Flipendo__akita__auto_generated_rro_product.apk:product/overlay/FlipendoOverlay.apk
--product/overlay/NfcOverlayCommon.apk
+-product/overlay/PixelNfcOverlayCommon.apk
 -product/overlay/PixelBatteryHealthOverlay.apk
 -product/overlay/PixelConfigOverlay2021.apk
 -product/overlay/PixelDisplayService__akita__auto_generated_rro_product.apk
