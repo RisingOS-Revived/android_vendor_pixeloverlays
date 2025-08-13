@@ -4,10 +4,10 @@ PRODUCT_PACKAGES += \
     DMServiceOverlay \
     DeviceDiagnosticsOverlay \
     FlipendoOverlay \
-    NfcOverlayCommon \
     PixelBatteryHealthOverlay \
     PixelConfigOverlay2021 \
     PixelDisplayService__husky__auto_generated_rro_product \
+    PixelNfcOverlayCommon \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleHuskyOverlay \
     SettingsGoogleHuskyOverlayRRO \

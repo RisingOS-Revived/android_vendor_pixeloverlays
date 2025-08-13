@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="security_settings_face_enroll_education_message">Na sljedećem zaslonu držite telefon na razini očiju</string>
+    <string name="security_settings_face_enroll_education_message">Na sljedećem zaslonu držite telefon u razini očiju</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Kako postaviti otključavanje licem</string>
     <string name="security_settings_face_enroll_finish_description">Sad možete podignuti telefon i otključati ga svojim licem</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"Izbrišite trenutačni model lica da biste ponovo postavili otključavanje licem.

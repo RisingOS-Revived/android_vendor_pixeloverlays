@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="security_settings_face_enroll_education_message">Seuraavassa näytössä pidä puhelinta silmien korkeudella</string>
+    <string name="security_settings_face_enroll_education_message">Pidä puhelinta silmien korkeudella seuraavalla näytöllä</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Kasvojentunnistusavauksen käyttöönotto</string>
     <string name="security_settings_face_enroll_finish_description">Voit nyt nostaa puhelimen ja avata sen lukituksen kasvoillasi</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"Poista nykyinen kasvomalli, jotta voit ottaa käyttöön kasvojentunnistusavauksen uudelleen.

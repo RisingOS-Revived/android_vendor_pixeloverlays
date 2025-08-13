@@ -15,8 +15,8 @@
 //
 
 runtime_resource_overlay {
-    name: "NfcOverlayCommon",
-    theme: "NfcOverlayCommon",
+    name: "PixelNfcOverlayCommon",
+    theme: "PixelNfcOverlayCommon",
     certificate: "platform",
     sdk_version: "current",
     product_specific: true
