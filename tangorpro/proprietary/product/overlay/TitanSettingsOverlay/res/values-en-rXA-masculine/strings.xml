@@ -5,5 +5,11 @@
     <string name="dream_no_screen_saver_description">(M)[Ţö šåVé éñéŕĝý, ýöûŕ šçŕééñ ŵîļļ ţûŕñ öƒƒ åƒţéŕ îñåçţîVîţý one two three four five six seven]</string>
     <string name="dream_no_screen_saver_preview_caption">(M)[Éçö-ƒŕîéñðļý one two]</string>
     <string name="dream_secondary_button_title">(M)[Šķîþ one]</string>
+    <string name="screensaver_settings_summary_dock_and_charging">(M)[Ŵĥîļé ðöçķéð åñð çĥåŕĝîñĝ one two three]</string>
     <string name="screensaver_settings_summary_off">(M)[Šĥöŵ ƒåVöŕîţé þĥöţöš, åŕţŵöŕķ, çļöçķš, åñð ḿöŕé ŵĥéñ îðļé one two three four five six seven]</string>
+    <string name="screensaver_settings_summary_postured_and_charging">(M)[Ŵĥîļé ûþŕîĝĥţ åñð çĥåŕĝîñĝ one two three four]</string>
+    <string name="screensaver_settings_summary_sleep">(M)[Ŵĥîļé çĥåŕĝîñĝ one two three]</string>
+    <string name="when_to_show_hubmode_charging">(M)[Ŵĥîļé çĥåŕĝîñĝ one two three]</string>
+    <string name="when_to_show_hubmode_docked">(M)[Ŵĥîļé ðöçķéð one two]</string>
+    <string name="when_to_show_hubmode_never">(M)[ÑéVéŕ one]</string>
 </resources>

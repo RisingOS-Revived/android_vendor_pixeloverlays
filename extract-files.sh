@@ -70,7 +70,7 @@ function blob_fixup() {
 function starletMagic() {
     folder=${2/.apk/}
     echo "    "${folder##*/} "\\" >> "${MY_DIR}/${DEVICE}/overlays.mk"
-    apktool -q d "$2" -o $folder -f
+    apktool d "$2" -o $folder -f
     rm -rf $2 $folder/{apktool.yml,original,res/values/public.xml,unknown}
     cp ${MY_DIR}/overlay-template.txt $folder/Android.bp
     sed -i "s|dummy|${folder##*/}|g" $folder/Android.bp

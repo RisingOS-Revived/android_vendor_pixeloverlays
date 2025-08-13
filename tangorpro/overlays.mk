@@ -3,9 +3,9 @@ PRODUCT_PACKAGES += \
     CompanionDeviceManagerOverlay \
     DeviceDiagnosticsOverlay \
     FlipendoOverlay \
-    NfcOverlayCommon \
     PixelBatteryHealthOverlay \
     PixelConfigOverlay2021 \
+    PixelNfcOverlayCommon \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleNoTelephonyOverlay \
     SettingsGoogleTangorproOverlay \

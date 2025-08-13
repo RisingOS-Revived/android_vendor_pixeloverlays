@@ -5,5 +5,11 @@
     <string name="dream_no_screen_saver_description">Enerjiyə qənaət etmək üçün fəaliyyətsizlikdən sonra ekranınız sönəcək</string>
     <string name="dream_no_screen_saver_preview_caption">Ekoloji cəhətdən təmiz</string>
     <string name="dream_secondary_button_title">Keçin</string>
+    <string name="screensaver_settings_summary_dock_and_charging">Taxıldıqda və şarj edildikdə</string>
     <string name="screensaver_settings_summary_off">Fəaliyyətsiz olduqda sevimli fotolar, illüstrasiya, saatlar və daha çoxunu göstərin</string>
+    <string name="screensaver_settings_summary_postured_and_charging">Dik halda və şarj edildikdə</string>
+    <string name="screensaver_settings_summary_sleep">Şarj edildikdə</string>
+    <string name="when_to_show_hubmode_charging">Şarj edildikdə</string>
+    <string name="when_to_show_hubmode_docked">Doka taxılı ikən</string>
+    <string name="when_to_show_hubmode_never">Heç vaxt</string>
 </resources>

@@ -2,6 +2,9 @@
 <resources>
     <bool name="config_assistTouchGestureEnabledDefault">false</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">false</bool>
+    <bool name="config_dreamsActivatedOnDockByDefault">true</bool>
+    <bool name="config_dreamsActivatedOnPosturedByDefault">false</bool>
+    <bool name="config_dreamsActivatedOnSleepByDefault">false</bool>
     <bool name="config_dreamsDisabledByAmbientModeSuppressionConfig">true</bool>
     <bool name="config_dreamsEnabledByDefault">false</bool>
     <bool name="config_dreamsOnlyEnabledForDockUser">true</bool>

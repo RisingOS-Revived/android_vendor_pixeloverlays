@@ -5,5 +5,11 @@
     <string name="dream_no_screen_saver_description">Ва ўмовах бяздзейнасці экран аўтаматычна выключыцца для зберажэння энергіі</string>
     <string name="dream_no_screen_saver_preview_caption">Экалагічна бяспечна</string>
     <string name="dream_secondary_button_title">Прапусціць</string>
+    <string name="screensaver_settings_summary_dock_and_charging">Падчас зарадкі на док-станцыі</string>
     <string name="screensaver_settings_summary_off">Паказваць на неактыўным экране абраныя фота, відарысы, цыферблаты і іншае змесціва</string>
+    <string name="screensaver_settings_summary_postured_and_charging">Падчас зарадкі вертыкальна</string>
+    <string name="screensaver_settings_summary_sleep">Падчас зарадкі</string>
+    <string name="when_to_show_hubmode_charging">Падчас зарадкі</string>
+    <string name="when_to_show_hubmode_docked">Пры падключэнні да док-станцыі</string>
+    <string name="when_to_show_hubmode_never">Ніколі</string>
 </resources>

@@ -7,4 +7,24 @@
         <item>com.google.assistant.hubui/com.google.assistant.hubui.dream.WeatherClockDreamService</item>
         <item>com.google.assistant.hubui/com.google.assistant.hubui.dream.FroggyDreamService</item>
     </string-array>
+    <string-array name="when_to_start_hubmode_entries">
+        <item>@string/when_to_show_hubmode_never</item>
+        <item>@string/when_to_show_hubmode_charging</item>
+        <item>@string/when_to_show_hubmode_docked</item>
+    </string-array>
+    <string-array name="when_to_start_hubmode_values">
+        <item>never</item>
+        <item>while_charging</item>
+        <item>while_docked</item>
+    </string-array>
+    <string-array name="when_to_start_screensaver_entries_no_battery">
+        <item>@string/screensaver_settings_summary_sleep</item>
+        <item>@string/screensaver_settings_summary_dock_and_charging</item>
+        <item>@string/screensaver_settings_summary_postured_and_charging</item>
+    </string-array>
+    <string-array name="when_to_start_screensaver_values_no_battery">
+        <item>while_charging_only</item>
+        <item>while_docked_only</item>
+        <item>while_postured_only</item>
+    </string-array>
 </resources>
