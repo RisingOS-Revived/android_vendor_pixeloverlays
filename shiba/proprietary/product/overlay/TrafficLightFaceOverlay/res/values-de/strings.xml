@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="security_settings_face_enroll_education_message">Auf dem nächsten Bildschirm musst du dein Gerät auf Augenhöhe halten</string>
-    <string name="security_settings_face_enroll_education_title_accessibility">Gesichtsentsperrung einrichten</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Entsperrung per Gesichts­erkennung einrichten</string>
     <string name="security_settings_face_enroll_finish_description">Jetzt kannst du dein Smartphone in die Hand nehmen und es mithilfe der Gesichtserkennung entsperren</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"Du musst dein aktuelles Gesichtsmodell löschen, um die Entsperrung per Gesichtserkennung neu einzurichten.
 
