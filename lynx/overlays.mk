@@ -4,10 +4,10 @@ PRODUCT_PACKAGES += \
     DMServiceOverlay \
     DeviceDiagnosticsOverlay \
     FlipendoOverlay \
-    NfcOverlayCommon \
-    NfcOverlayLynx \
     PixelBatteryHealthOverlay \
     PixelConfigOverlay2021 \
+    PixelNfcOverlayCommon \
+    PixelNfcOverlayLynx \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFutureLynxOverlay \
     SettingsGoogleLynxOverlay \
