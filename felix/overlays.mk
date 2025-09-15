@@ -4,9 +4,10 @@ PRODUCT_PACKAGES += \
     DMServiceOverlay \
     DeviceDiagnosticsOverlay \
     FlipendoOverlay \
-    NfcOverlayCommon \
     PixelBatteryHealthOverlay \
     PixelConfigOverlay2021 \
+    PixelNfcOverlayCommon \
+    PixelNfcOverlayFelix \
     SafetyRegulatoryInfoOverlay \
     SettingsGoogleFutureFelixOverlay \
     SettingsGoogleOverlayFelix \

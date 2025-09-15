@@ -35,5 +35,5 @@ Patrząc na telefon, możesz go przypadkowo odblokować.
 Inna osoba może odblokować Twój telefon, zbliżając go do Twojej twarzy (nawet przy zamkniętych oczach).
 
 Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. rodzeństwo) odblokuje Twój telefon."</string>
-    <string name="security_settings_face_settings_require_attention_details">Aby odblokować telefon, musisz mieć otwarte oczy. Łatwiej odblokujesz telefon, jeśli zdejmiesz okulary przeciwsłoneczne.</string>
+    <string name="security_settings_face_settings_require_attention_details">Aby odblokować telefon, musisz mieć otwarte oczy. Jeśli masz na sobie okulary przeciwsłoneczne, najlepiej je zdejmij.</string>
 </resources>

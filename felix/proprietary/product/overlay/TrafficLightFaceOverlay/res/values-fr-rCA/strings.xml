@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="security_settings_face_enroll_education_message">"Sur l'écran suivant, tenez votre téléphone à la hauteur des yeux"</string>
-    <string name="security_settings_face_enroll_education_title_accessibility">Configurez le Déverrouillage par reconn. faciale</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Configurer le Déverrouillage par reconn. faciale</string>
     <string name="security_settings_face_enroll_finish_description">"Vous pouvez maintenant déverrouiller votre téléphone à l'aide de votre visage"</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"Supprimez votre modèle facial actuel pour reconfigurer le déverrouillage facial.
 
